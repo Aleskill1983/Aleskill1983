@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... PHP!
 - 💞️ I’m looking to collaborate on ... servicios de finanzas, contabiliad, TAX
 - 📫 How to reach me ... linkedin.com/in/alejandro-herrera-riffo-787655112
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... FUCK DA SHIT
+- ⚡ Fun fact: ... a veces puedo volar
 
 <!---
 Aleskill1983/Aleskill1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
