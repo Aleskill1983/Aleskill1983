@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... PHP!
 - 💞️ I’m looking to collaborate on ... servicios de finanzas, contabiliad, TAX
 - 📫 How to reach me ... linkedin.com/in/alejandro-herrera-riffo-787655112
-- 😄 Pronouns: ... FUCK DA SHIT
+- 😄 Pronouns: ... AH7
 - ⚡ Fun fact: ... a veces puedo volar
 
 <!---
